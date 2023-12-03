@@ -1,0 +1,22 @@
+{
+  "mahasiswa": [
+    {
+      "nama": "Maudy",
+      "nim": "21/478713/SV/19366",
+      "kelas": "A",
+      "jeniskelamin": "Perempuan",
+      "icon": "coffee",
+      "color": "#DCBFFF",
+      "id": 2
+    },
+    {
+      "nama": "Maudy",
+      "nim": "21/478713/SV/19366",
+      "kelas": "A",
+      "jeniskelamin": "Perempuan",
+      "color": "#00000",
+      "icon": "fan",
+      "id": 3
+    }
+  ]
+}
