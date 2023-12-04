@@ -18,9 +18,11 @@ function HomeScreen() {
     return (
         <ScrollView>
             <View>
-                <Text style={styles.title}>PaCul Locator</Text>
                 
+                <Text style={styles.title}>PaCul Locator</Text>
+
                 <View style={styles.container}>
+                    <Image source={require('../peta/padang.jpg')} style={styles.image} />
 
                     <Text style={styles.text}>
                         PaCul Locator merupakan aplikasi yang berisi informasi mengenai persebaran titik Rumah Makan Padang. Selain itu, pengguna juga dapat menginputkan lokasi Rumah Makan Padang secara real time untuk menambah data titik lokasi.
@@ -49,7 +51,7 @@ function HomeScreen() {
                 </View>
             </View>
 
-           
+
         </ScrollView>
     );
 }
