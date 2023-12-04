@@ -4,7 +4,7 @@ import FontAwesome5 from 'react-native-vector-icons/FontAwesome5';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 export const Callapi = () => {
-    const jsonUrl = 'https://script.google.com/macros/s/AKfycbx02DDKu8vZyS8yUE93skxhSUd0_5Cn8j61r044NYYHw9YFMFrb-vGJjHw3mcF4vDHZHQ/exec';
+    const jsonUrl = 'https://script.google.com/macros/s/AKfycbynZy6fBTLO3WzeuseHlBXyUVXf179oF1d7IdtgfB2dKzLb78lwpBu5K7oUo0AYu6f0/exec';
     const [isLoading, setLoading] = useState(true);
     const [dataUser, setDataUser] = useState({});
     const [refresh, setRefresh] = useState(false);
@@ -51,9 +51,7 @@ export const Callapi = () => {
                         renderItem={({ item }) => (
                             <View>
                                 <View style={styles.card}>
-                                    <View style={styles.avatar}>
-                                        <FontAwesome5 name={item.icon} size={50} color={item.color} />
-                                    </View>
+                                    
                                     <View>
                                         <Text style={styles.cardtitle}>{item.nama}</Text>
                                         <Text>{item.rating}</Text>
@@ -61,6 +59,7 @@ export const Callapi = () => {
                                         <Text>{item.jambuka}</Text>
                                         <Text>{item.jamtutup}</Text>
                                         <Text>{item.alamat}</Text>
+                                        
                                     </View>
                                 </View>
                                 <View style={styles.lokasi} >

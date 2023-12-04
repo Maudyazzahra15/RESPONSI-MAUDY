@@ -18,10 +18,12 @@ function HomeScreen() {
     return (
         <ScrollView>
             <View>
-                <Text style={styles.title}>APLIKASI PETA LOKASI RUMAH MAKAN PADANG</Text>
+                <Text style={styles.title}>PaCul Locator</Text>
+                
                 <View style={styles.container}>
 
                     <Text style={styles.text}>
+                        PaCul Locator merupakan aplikasi yang berisi informasi mengenai persebaran titik Rumah Makan Padang. Selain itu, pengguna juga dapat menginputkan lokasi Rumah Makan Padang secara real time untuk menambah data titik lokasi.
 
                         Nasi Padang: Nasi adalah bagian utama dari hidangan Padang. Pada umumnya, nasi disajikan bersama sejumlah hidangan lauk pauk yang ditempatkan di atas meja. Pelanggan dapat memilih lauk pauk mana yang ingin mereka santap.
 
