@@ -17,8 +17,8 @@ Aplikasi ini menyajikan informasi mengenai persebaran titik Rumah Makan Padang y
    ![image](https://github.com/Maudyazzahra15/RESPONSI-MAUDY/assets/142763203/f3ba7b7d-c744-41d2-a2d7-067da78529e4)
    ![image](https://github.com/Maudyazzahra15/RESPONSI-MAUDY/assets/142763203/3e0c9ed4-3f37-49a4-a2ec-aa57e91de572)
    ![image](https://github.com/Maudyazzahra15/RESPONSI-MAUDY/assets/142763203/e70789d1-e6b4-4e25-9114-a3ae818d94ae)
-   ![image](https://github.com/Maudyazzahra15/RESPONSI-MAUDY/assets/142763203/382b5da7-825f-4d61-b805-e9121c5d0936)
    ![image](https://github.com/Maudyazzahra15/RESPONSI-MAUDY/assets/142763203/d7539532-e914-419a-857c-4e366af8eccb)
+   ![image](https://github.com/Maudyazzahra15/RESPONSI-MAUDY/assets/142763203/382b5da7-825f-4d61-b805-e9121c5d0936)
 
 
    
