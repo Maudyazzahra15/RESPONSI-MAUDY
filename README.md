@@ -11,7 +11,7 @@ Aplikasi ini menyajikan informasi mengenai persebaran titik Rumah Makan Padang y
 7. GitHub
 Data Rumah Makan Padang didapatkan dari Google Maps dengan metode crawling data dan geocoder.
 
-   Screenshoot Komponen Penting
+   ## Screenshoot Komponen Penting
    ![image](https://github.com/Maudyazzahra15/RESPONSI-MAUDY/assets/142763203/530452d5-b1ad-4047-9883-d8bb3df70e99)
    ![image](https://github.com/Maudyazzahra15/RESPONSI-MAUDY/assets/142763203/f383960d-e17b-4de4-a3e5-b87cc5b91087)
    ![image](https://github.com/Maudyazzahra15/RESPONSI-MAUDY/assets/142763203/f3ba7b7d-c744-41d2-a2d7-067da78529e4)
